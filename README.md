@@ -2,6 +2,9 @@
 
 Click the icon above to deploy.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/laida2015/xray-heroku)
+
+
 Default Protocol : vless
 
 Default UUID: 36cfc3de-ecfd-4752-ae6f-8f0f92035143
