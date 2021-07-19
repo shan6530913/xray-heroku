@@ -2,7 +2,7 @@
 
 Click the icon above to deploy.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/laida2015/xray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/shan6530913/xray-heroku)
 
 
 Default Protocol : vless
